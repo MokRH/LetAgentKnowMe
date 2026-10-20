@@ -1,0 +1,1 @@
+HTML source of the CV pages from the design tool (A4, 794x1123 px). They may lag the final PDF by a few small edits; 07_cv_final_text.md is the authoritative text. Fonts: Source Sans 3 and Source Serif 4. Accent colour #0e5e5e, sidebar #e6f0ef.
