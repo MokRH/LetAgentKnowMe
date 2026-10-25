@@ -28,4 +28,11 @@
 
 ## Not yet in the pack
 - Certified-copy stamps on SPM, BEM certificate, certificates and letters (check UPM's rule).
-- Employment letters for INCUS and RS Technologies (optional but useful).
+- SSM company profile for INCUS (obtained 22 Oct 2026): attach pages 1, 3 and 5 of 7 only (company details, directors, shareholders). Omit pages 2, 4, 6, 7. Redact every IC number and home address (mine and everyone else's); keep names, designations and dates unless a partner objects. Add the note: "Extract of SSM company profile, pages 1, 3 and 5 of 7; other pages omitted and third-party personal data redacted."
+- SSM records for RS Technologies Empire: (1) the old record printed 27 May 2019 (2 pages: business information, owners), which proves the 2019 start and the partner; (2) the current record printed 22 Oct 2026 (pages 1 and the owner page), which proves it is active to 8 July 2029. Redact every IC number, date of birth, home address, race and gender (mine and my partner's); keep names, business details and dates. Note for the pack: "Extracts of SSM business records; other pages omitted; personal data redacted." RS registrations must be renewed each period. Attach the FIRST record (2019), the LATEST record (2024) and any renewal record that bridges 26 May 2021 to 1 July 2024, using only the business-information page and the owner page of each, redacted. Do not attach every period if there are many. Add one summary table page (period, registration number, start, expiry, status) so a reviewer sees continuity at a glance. If no record covers 2021 to 2024, soften the CV dates ("registered 2019 and 2024") rather than claim unbroken registration.
+- Certificates of appreciation from schools (evidence for the RS Technologies competition claims).
+- First page of the UMP STEM Bot paper (paper 7) or the IET/IEEE Xplore record showing title, authors, venue and date; optionally a UMP purchase record for the boards.
+- Patent evidence for MY196249A: the grant certificate or MyIPO record and the Google Patents page, showing applicant, inventors, dates and status.
+
+
+See 12_supporting_documents_checklist.md for the full, current checklist.

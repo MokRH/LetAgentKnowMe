@@ -1,7 +1,7 @@
 # UPM Senior Lecturer (DS13) application: context pack
 
 Backup of everything decided in my application chat, so any AI or agent can continue without re-asking.
-Last updated: 20 October 2026. Closing date for the post: 15 November 2026.
+Last updated: 22 October 2026 (after the INCUS and RS Technologies SSM records).
 
 ## How to use
 1. Start a new chat and paste `00_STARTER_PROMPT.md`, then attach or paste the other files (or just `ALL_IN_ONE_context.md`).
@@ -23,6 +23,8 @@ Last updated: 20 October 2026. Closing date for the post: 15 November 2026.
 | 09_evidence_pack.md | What is in the merged PDF, page by page, and redaction rules |
 | 10_rules_and_corrections.md | Honest-claims rules and past corrections |
 | 11_todo.md | Open items before submission |
+| 12_supporting_documents_checklist.md | Full checklist of supporting documents with status |
+| 12_enclosure_list.md | Summary of the enclosure list and SSM records document |
 | source/ | HTML source of the two CV pages (may lag the PDF) |
 | assets/ | CV photo (passport-style crop) |
 
