@@ -39,3 +39,26 @@
 ## Status as of 22 October 2026
 Done: letter dated 22 Oct 2026; INCUS (director from 12 Mar 2019, 15% shareholder) and RS Technologies Empire (partnership, 2019; current registration 2024) wording matches SSM; ENT surgeon referred to without a name; paper 7 added; school and certificate claims reduced to what documents show.
 Still open: paper 7 conference details; redact and attach SSM extracts; pack fixes (page 29 redaction, rotate page 23, certified copies, file size); CV PDF layout check; GitHub repo fixes; referee consent; Scopus name variant; software engineering pilot.
+
+- [ ] Apply the 8 fixes listed in 12_supporting_documents_checklist.md (redactions on p26, p28, p40, p42, p46; rotate p18-21 and p34; director page; file size).
+
+
+## Update after CV_SupportDoc_1.pdf (48 pages)
+- [x] School certificates, JCR pages, first pages of papers, patent record (addresses redacted), SSM extracts (redacted), identity card copy and the INCUS resolution are now in the PDF.
+- [ ] Still to add: publication list and citation metrics; RS renewal record 2021 to 2024; INCUS dissolution documents or a dated resolution.
+- [ ] Rotate the sideways pages 19-22 and 35; check certified-copy rule for SPM and BEM; check the portal file-size limit (about 8.9 MB).
+
+
+## Update after CoverLetter_CV_SupportDoc.pdf (52 pages) review
+- [x] Quartiles verified against the JCR pages (ESTIJ 2022 Q1; Fractal and Fractional 2023 Q1; IEEE TIA 2025 Q1; IETE Journal of Research 2022 and 2024 Q3 in Electrical & Electronic). CV note added: JCR for the publication year, best category.
+- [x] Patent grant date (24 March 2023) added to the CV and letter.
+- [ ] Redact the partner's home address on the RS 2019 record first page (visible although redacted on the owner page).
+- [ ] Insert the enclosure list (Enclosure_List_Mok_Ren_Hao.pdf) after the CV, rename the 'Slide n' bookmarks, add the publication list, paper 7 record page, RS renewal record and INCUS dissolution documents; update page numbers after the final merge.
+
+
+## Update after All_in_one.pdf (final, 54 pages)
+- [x] Supporting documents finalised; enclosure list renumbered to 26 items (no 'to add' items remain); bookmarks renamed in All_in_one_updated.pdf.
+- [x] CV referee title updated by me: Prof. Hamdan is Chief Digital Officer, ICT Centre for Digital Technology (DiTec), UMPSA.
+- [ ] Re-export the cover letter (the PDF still has the old text) and replace pages 1-2.
+- [ ] Redact the partner's address on RS 2019 first page (p46).
+- [ ] Check portal file-size limit (about 11.5 MB).

@@ -19,7 +19,7 @@ Researcher in metaheuristic computing and stochastic optimisation. My doctoral w
 - **Diploma in Electrical Engineering (Industrial Electronics), Second Class.** UMP (now UMPSA), 2011 to 2014, CGPA 3.25.
 
 ## Publications
-Ten selected publications: five journal articles (three Q1, two Q3) and five conference papers; first author on six. Full list with DOIs: 04_publications.md.
+Ten selected publications: five journal articles (three Q1, two Q3) and five conference papers; first author on six. Quartile: JCR for the publication year, best category. Full list with DOIs: 04_publications.md.
 
 ## Research contributions
 - **Algorithms:** smoothed functional variants for PID and fractional-order PID tuning and Hammerstein identification (papers 1, 3, 4, 6); improved marine predators algorithm (paper 2); random search variants including MR-ORSSRS (papers 5, 8, 10); spiral dynamic algorithm (paper 9).
@@ -33,7 +33,7 @@ Ten selected publications: five journal articles (three Q1, two Q3) and five con
 
 ## Teaching and academic engagement
 - **University, 2025 (UMPSA):** technical service provider (June 2025, two months) for the Innovation and Community Knowledge Transfer Grant CDU240128, led by Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin. Designed three robot-based unplugged-coding activities, programmed robot behaviours in mBlock, prepared a teacher handling guide, assisted a pilot session with students and gave teachers a brief training and demonstration.
-- **School, district and community college:** contributed to Pahang's robotics co-curriculum programme for Orang Asli schools (SMOA), including a workshop on 2-4 October 2024 with Jabatan Pendidikan Negeri Pahang (recognised as Penggerak Robotik Pahang); trainer, RBTX Challenge 2023 briefing, and judge, Pekan RoboSTEM Challenge 2024 (PPD Pekan); instructor, robotics course, Kolej Komuniti Pekan (December 2023).
+- **School, district and community college:** contributed to Pahang's robotics programme for Orang Asli schools (SMOA), including a 2-4 October 2024 workshop with Jabatan Pendidikan Negeri Pahang (recognised as Penggerak Robotik Pahang); robotics mentor (SMK Nenasi, SK Permatang Keledang); trainer, RBTX Challenge 2023 briefing, and judge, Pekan RoboSTEM Challenge 2024; instructor, robotics course, Kolej Komuniti Pekan (December 2023).
 - **Teaching interests:** software testing and quality assurance, software maintenance, secure software development, metaheuristics, AI and optimisation, programming (Python, C/C++), embedded systems and IoT.
 
 ## Industry and entrepreneurship
@@ -42,7 +42,7 @@ Ten selected publications: five journal articles (three Q1, two Q3) and five con
 - Design the products from hardware to software: PCB design, assembly, C++ (Arduino) libraries and mBlock block-based programming. Products: line-following robots (five sensors, then eleven), then sumo, battle and soccer robots, used in school competitions including RBTX (certificates of appreciation from schools); control boards supplied to UMP for the UMP STEM Bot kit (paper 7).
 
 **Director (research and development)**, INCUS Solutions Sdn. Bhd., 2019 to 2025
-- One of five founding directors; 15% shareholder. Led research and development: built a wireless endoscopy system with an ENT surgeon from University Malaya Medical Center as collaborator, because tower systems are bulky and limit remote access. Named inventor of granted Malaysian patent MY196249A (linked on the CV to https://patents.google.com/patent/MY196249A/en).
+- One of five founding directors; 15% shareholder. Led research and development: built a wireless endoscopy system with an ENT surgeon from University Malaya Medical Center as collaborator, because tower systems are bulky and limit remote access. Named inventor of Malaysian patent MY196249A, granted March 2023 (linked on the CV to https://patents.google.com/patent/MY196249A/en).
 - Designed and developed the hardware (Arduino-based battery management and power supply, ESP32-CAM, then a GOKE GK7205 CCTV-module camera). Bench-tested each iteration, then the surgeon tested it for feedback; iterated until both were satisfactory, then a contract manufacturer produced small volumes.
 - Worked remotely during the COVID-19 lockdown, alongside PhD research. Ceased operations in 2025 for funding reasons; dissolution in progress.
 
@@ -55,9 +55,9 @@ Optimisation and modelling: smoothed functional algorithms, random search, PSO, 
 Graduate Research Assistant (Skim Pembantu Penyelidik Siswazah), UMP, project RDU190325, 1 April to 30 September 2021.
 
 ## Awards and IP (page 2 sidebar)
-- Granted Malaysian patent MY196249A, Wireless Endoscope System (named inventor).
+- Malaysian patent MY196249A, Wireless Endoscope System (granted 24 March 2023; named inventor).
 - Certificates of appreciation for robotics training and judging, 2023 to 2024.
 - Letter of appreciation from Hospital Sultan Ismail to INCUS (June 2020).
 
 ## Referees (contacts in the CV PDF)
-Assoc. Prof. Ts. Dr. Mohd Ashraf Bin Ahmad (PhD supervisor); Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin (project leader, CDU240128); Prof. Ts. Dr. Hamdan Bin Daniyal (Chief Information Officer, Center for Development and Information Technology, UMPSA).
+Assoc. Prof. Ts. Dr. Mohd Ashraf Bin Ahmad (PhD supervisor); Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin (project leader, CDU240128); Prof. Ts. Dr. Hamdan Bin Daniyal (Chief Digital Officer, ICT Centre for Digital Technology (DiTec), UMPSA).

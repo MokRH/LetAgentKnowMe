@@ -26,5 +26,5 @@
 ## Referees (contact details are in the CV, not here)
 1. Assoc. Prof. Ts. Dr. Mohd Ashraf Bin Ahmad, PhD supervisor, Faculty of Electrical & Electronics Engineering Technology, UMPSA.
 2. Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin, same faculty; project leader of CDU240128.
-3. Prof. Ts. Dr. Hamdan Bin Daniyal, Chief Information Officer, Center for Development and Information Technology, UMPSA.
+3. Prof. Ts. Dr. Hamdan Bin Daniyal, Chief Digital Officer, ICT Centre for Digital Technology (DiTec), UMPSA.
 Confirm each has agreed to be named. The ENT surgeon is not a referee (weak fit for a software engineering post).

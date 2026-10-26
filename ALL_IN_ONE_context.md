@@ -154,7 +154,7 @@ Five journal articles (three Q1, two Q3) and five conference papers. First autho
 ## Referees (contact details are in the CV, not here)
 1. Assoc. Prof. Ts. Dr. Mohd Ashraf Bin Ahmad, PhD supervisor, Faculty of Electrical & Electronics Engineering Technology, UMPSA.
 2. Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin, same faculty; project leader of CDU240128.
-3. Prof. Ts. Dr. Hamdan Bin Daniyal, Chief Information Officer, Center for Development and Information Technology, UMPSA.
+3. Prof. Ts. Dr. Hamdan Bin Daniyal, Chief Digital Officer, ICT Centre for Digital Technology (DiTec), UMPSA.
 Confirm each has agreed to be named. The ENT surgeon is not a referee (weak fit for a software engineering post).
 
 =================== 07_cv_final_text.md ===================
@@ -180,7 +180,7 @@ Researcher in metaheuristic computing and stochastic optimisation. My doctoral w
 - **Diploma in Electrical Engineering (Industrial Electronics), Second Class.** UMP (now UMPSA), 2011 to 2014, CGPA 3.25.
 
 ## Publications
-Ten selected publications: five journal articles (three Q1, two Q3) and five conference papers; first author on six. Full list with DOIs: 04_publications.md.
+Ten selected publications: five journal articles (three Q1, two Q3) and five conference papers; first author on six. Quartile: JCR for the publication year, best category. Full list with DOIs: 04_publications.md.
 
 ## Research contributions
 - **Algorithms:** smoothed functional variants for PID and fractional-order PID tuning and Hammerstein identification (papers 1, 3, 4, 6); improved marine predators algorithm (paper 2); random search variants including MR-ORSSRS (papers 5, 8, 10); spiral dynamic algorithm (paper 9).
@@ -194,7 +194,7 @@ Ten selected publications: five journal articles (three Q1, two Q3) and five con
 
 ## Teaching and academic engagement
 - **University, 2025 (UMPSA):** technical service provider (June 2025, two months) for the Innovation and Community Knowledge Transfer Grant CDU240128, led by Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin. Designed three robot-based unplugged-coding activities, programmed robot behaviours in mBlock, prepared a teacher handling guide, assisted a pilot session with students and gave teachers a brief training and demonstration.
-- **School, district and community college:** contributed to Pahang's robotics co-curriculum programme for Orang Asli schools (SMOA), including a workshop on 2-4 October 2024 with Jabatan Pendidikan Negeri Pahang (recognised as Penggerak Robotik Pahang); trainer, RBTX Challenge 2023 briefing, and judge, Pekan RoboSTEM Challenge 2024 (PPD Pekan); instructor, robotics course, Kolej Komuniti Pekan (December 2023).
+- **School, district and community college:** contributed to Pahang's robotics programme for Orang Asli schools (SMOA), including a 2-4 October 2024 workshop with Jabatan Pendidikan Negeri Pahang (recognised as Penggerak Robotik Pahang); robotics mentor (SMK Nenasi, SK Permatang Keledang); trainer, RBTX Challenge 2023 briefing, and judge, Pekan RoboSTEM Challenge 2024; instructor, robotics course, Kolej Komuniti Pekan (December 2023).
 - **Teaching interests:** software testing and quality assurance, software maintenance, secure software development, metaheuristics, AI and optimisation, programming (Python, C/C++), embedded systems and IoT.
 
 ## Industry and entrepreneurship
@@ -203,7 +203,7 @@ Ten selected publications: five journal articles (three Q1, two Q3) and five con
 - Design the products from hardware to software: PCB design, assembly, C++ (Arduino) libraries and mBlock block-based programming. Products: line-following robots (five sensors, then eleven), then sumo, battle and soccer robots, used in school competitions including RBTX (certificates of appreciation from schools); control boards supplied to UMP for the UMP STEM Bot kit (paper 7).
 
 **Director (research and development)**, INCUS Solutions Sdn. Bhd., 2019 to 2025
-- One of five founding directors; 15% shareholder. Led research and development: built a wireless endoscopy system with an ENT surgeon from University Malaya Medical Center as collaborator, because tower systems are bulky and limit remote access. Named inventor of granted Malaysian patent MY196249A (linked on the CV to https://patents.google.com/patent/MY196249A/en).
+- One of five founding directors; 15% shareholder. Led research and development: built a wireless endoscopy system with an ENT surgeon from University Malaya Medical Center as collaborator, because tower systems are bulky and limit remote access. Named inventor of Malaysian patent MY196249A, granted March 2023 (linked on the CV to https://patents.google.com/patent/MY196249A/en).
 - Designed and developed the hardware (Arduino-based battery management and power supply, ESP32-CAM, then a GOKE GK7205 CCTV-module camera). Bench-tested each iteration, then the surgeon tested it for feedback; iterated until both were satisfactory, then a contract manufacturer produced small volumes.
 - Worked remotely during the COVID-19 lockdown, alongside PhD research. Ceased operations in 2025 for funding reasons; dissolution in progress.
 
@@ -216,20 +216,20 @@ Optimisation and modelling: smoothed functional algorithms, random search, PSO, 
 Graduate Research Assistant (Skim Pembantu Penyelidik Siswazah), UMP, project RDU190325, 1 April to 30 September 2021.
 
 ## Awards and IP (page 2 sidebar)
-- Granted Malaysian patent MY196249A, Wireless Endoscope System (named inventor).
+- Malaysian patent MY196249A, Wireless Endoscope System (granted 24 March 2023; named inventor).
 - Certificates of appreciation for robotics training and judging, 2023 to 2024.
 - Letter of appreciation from Hospital Sultan Ismail to INCUS (June 2020).
 
 ## Referees (contacts in the CV PDF)
-Assoc. Prof. Ts. Dr. Mohd Ashraf Bin Ahmad (PhD supervisor); Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin (project leader, CDU240128); Prof. Ts. Dr. Hamdan Bin Daniyal (Chief Information Officer, Center for Development and Information Technology, UMPSA).
+Assoc. Prof. Ts. Dr. Mohd Ashraf Bin Ahmad (PhD supervisor); Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin (project leader, CDU240128); Prof. Ts. Dr. Hamdan Bin Daniyal (Chief Digital Officer, ICT Centre for Digital Technology (DiTec), UMPSA).
 
 =================== 08_cover_letter_final.md ===================
 
-# Cover letter (restructured; date 22 October 2026, update on submission day)
+# Cover letter (restructured; date 25 October 2026, update on submission day)
 
 Mok Ren Hao | Taman Rendang, 26600, Pekan, Pahang | 018-665 7950 | mokrenhao@gmail.com
 
-22 October 2026
+25 October 2026
 
 The Dean
 Faculty of Computer Science and Information Technology (FSKTM)
@@ -247,9 +247,9 @@ I have ten selected publications, three in Q1 journals (including IEEE Transacti
 
 The other four areas in the advertisement are software testing, software maintenance, software security and AI for software engineering. My published work is in optimisation and control, not yet in software engineering. My algorithms solve black-box, derivative-free problems, which is the problem class addressed by search-based software engineering. At FSKTM, I plan to begin with test case generation and prioritisation, benchmarked against genetic algorithm, particle swarm and simulated annealing baselines on public benchmarks. I would then extend the work to search-based refactoring and to optimiser-tuned machine learning for defect and vulnerability prediction, and supervise postgraduate students on these topics.
 
-In 2025, I served as technical service provider for UMPSA's Innovation and Community Knowledge Transfer Grant, led by Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin. I designed robot-based unplugged-coding activities, prepared a handling guide for teachers and gave them a brief training and demonstration. I have also contributed to Pahang's robotics programme for Orang Asli schools, trained and judged at Pekan district robotics challenges, and taught a robotics course at Kolej Komuniti Pekan. The UMP STEM Bot paper that I co-authored describes a learning path from block-based to C++ programming, which I would apply in introductory programming courses. I can teach Python, C/C++ and MATLAB, as well as software testing, software maintenance, secure software development, artificial intelligence and optimisation. As an electrical engineer, I can also bring the sensing side of IoT into the classroom: I interface sensors (ADC, I2C, UART, SPI), design the boards, and have basic experience with MQTT, Node-RED and Grafana. I would use these to build hands-on IoT labs in which students test software against real sensor data. My formal lecturing experience is shorter than my research record, and I would welcome UPM's induction and mentoring.
+In 2025, I served as technical service provider for UMPSA's Innovation and Community Knowledge Transfer Grant, led by Assoc. Prof. Ir. Dr. Nurul Hazlina Binti Noordin. I designed robot-based unplugged-coding activities, prepared a handling guide for teachers and gave them a brief training and demonstration. I have also contributed to Pahang's robotics programme for Orang Asli schools, mentored school robotics teams, trained and judged at Pekan district robotics challenges, and taught a robotics course at Kolej Komuniti Pekan. The UMP STEM Bot paper that I co-authored describes a learning path from block-based to C++ programming, which I would apply in introductory programming courses. I can teach Python, C/C++ and MATLAB, as well as software testing, software maintenance, secure software development, artificial intelligence and optimisation. As an electrical engineer, I can also bring the sensing side of IoT into the classroom: I interface sensors (ADC, I2C, UART, SPI), design the boards, and have basic experience with MQTT, Node-RED and Grafana. I would use these to build hands-on IoT labs in which students test software against real sensor data. My formal lecturing experience is shorter than my research record, and I would welcome UPM's induction and mentoring.
 
-Alongside my PhD, I built two small engineering ventures. In 2019, I became one of five founding directors of INCUS Solutions Sdn. Bhd., where I hold 15% of the shares and led research and development. With an ENT surgeon from University Malaya Medical Center as collaborator, I built a wireless endoscopy system, and I am a named inventor of the granted Malaysian patent MY196249A. INCUS ceased operations in 2025 for funding reasons, and its dissolution is in progress. In 2019, I also co-founded RS Technologies Empire with partners, a registered partnership in which I remain a partner, and which designs hands-on STEM robots for schools and competitions. I worked on both while completing my PhD and a graduate research assistantship at UMP in 2021, and I delivered the INCUS project and my PhD on time.
+Alongside my PhD, I built two small engineering ventures. In 2019, I became one of five founding directors of INCUS Solutions Sdn. Bhd., where I hold 15% of the shares and led research and development. With an ENT surgeon from University Malaya Medical Center as collaborator, I built a wireless endoscopy system, and I am a named inventor of the Malaysian patent MY196249A, granted in March 2023. INCUS ceased operations in 2025 for funding reasons, and its dissolution is in progress. In 2019, I also co-founded RS Technologies Empire with partners, a registered partnership in which I remain a partner, and which designs hands-on STEM robots for schools and competitions. I worked on both while completing my PhD and a graduate research assistantship at UMP in 2021, and I delivered the INCUS project and my PhD on time.
 
 I have no employment contract, so I can take up the post immediately. I will declare my business interests and follow UPM's regulations on shareholdings, directorships and outside business interests.
 
@@ -399,69 +399,74 @@ See 12_supporting_documents_checklist.md for the full, current checklist.
 Done: letter dated 22 Oct 2026; INCUS (director from 12 Mar 2019, 15% shareholder) and RS Technologies Empire (partnership, 2019; current registration 2024) wording matches SSM; ENT surgeon referred to without a name; paper 7 added; school and certificate claims reduced to what documents show.
 Still open: paper 7 conference details; redact and attach SSM extracts; pack fixes (page 29 redaction, rotate page 23, certified copies, file size); CV PDF layout check; GitHub repo fixes; referee consent; Scopus name variant; software engineering pilot.
 
+- [ ] Apply the 8 fixes listed in 12_supporting_documents_checklist.md (redactions on p26, p28, p40, p42, p46; rotate p18-21 and p34; director page; file size).
+
+
+## Update after CV_SupportDoc_1.pdf (48 pages)
+- [x] School certificates, JCR pages, first pages of papers, patent record (addresses redacted), SSM extracts (redacted), identity card copy and the INCUS resolution are now in the PDF.
+- [ ] Still to add: publication list and citation metrics; RS renewal record 2021 to 2024; INCUS dissolution documents or a dated resolution.
+- [ ] Rotate the sideways pages 19-22 and 35; check certified-copy rule for SPM and BEM; check the portal file-size limit (about 8.9 MB).
+
+
+## Update after CoverLetter_CV_SupportDoc.pdf (52 pages) review
+- [x] Quartiles verified against the JCR pages (ESTIJ 2022 Q1; Fractal and Fractional 2023 Q1; IEEE TIA 2025 Q1; IETE Journal of Research 2022 and 2024 Q3 in Electrical & Electronic). CV note added: JCR for the publication year, best category.
+- [x] Patent grant date (24 March 2023) added to the CV and letter.
+- [ ] Redact the partner's home address on the RS 2019 record first page (visible although redacted on the owner page).
+- [ ] Insert the enclosure list (Enclosure_List_Mok_Ren_Hao.pdf) after the CV, rename the 'Slide n' bookmarks, add the publication list, paper 7 record page, RS renewal record and INCUS dissolution documents; update page numbers after the final merge.
+
+
+## Update after All_in_one.pdf (final, 54 pages)
+- [x] Supporting documents finalised; enclosure list renumbered to 26 items (no 'to add' items remain); bookmarks renamed in All_in_one_updated.pdf.
+- [x] CV referee title updated by me: Prof. Hamdan is Chief Digital Officer, ICT Centre for Digital Technology (DiTec), UMPSA.
+- [ ] Re-export the cover letter (the PDF still has the old text) and replace pages 1-2.
+- [ ] Redact the partner's address on RS 2019 first page (p46).
+- [ ] Check portal file-size limit (about 11.5 MB).
+
 =================== 12_supporting_documents_checklist.md ===================
 
-# Full checklist of supporting documents (22 Oct 2026)
+# Full checklist of supporting documents (FINAL pack, All_in_one_updated.pdf, 54 pages)
 
-UPM's own list of required documents has NOT been verified. Check the advert and the eJOBS form. Other Malaysian public universities typically ask for the application form, certified copies of transcripts and certificates, and clear, complete documents; false information voids an application.
+UPM's own list of required documents has NOT been verified. Check the advert and the eJOBS form.
 
-Status key: IN PACK = already in the 31-page merged PDF. ADD = missing. FIX = needs correcting.
+IN PDF = included (page numbers refer to the 54-page merged file). NOT INCLUDED = left out by my decision. FIX = still to correct.
 
-## 1. Application basics
-- Online form or portal submission (route per the advert): ADD
-- Final CV and cover letter, re-exported as PDF: FIX (re-export after the latest edits; check the bottom of both CV pages and the links)
-- Passport-size photo (assets/mok_ren_hao_cv_photo.jpg): ADD for the form
-- Identity card copy, if the form asks: ADD
+## Included
+- Cover letter p1-2 (FIX: the exported letter is the OLD version; re-export from the Claude Doc and swap pages 1-2)
+- CV p3-4 (current; links clickable)
+- Enclosure list p5-6
+- Identity card copy p7
+- PhD p8-9; MSc p10-12; B.Eng p13-18; Diploma p19-22; SPM p23; BEM p24
+- JCR rankings p25-28; first pages of papers 1, 2, 3, 7 p29-32; patent record p33; GRA letter p34
+- UMPSA CDU240128 letter p35-36; SMOA p37; Penggerak Robotik Pahang p38; RBTX trainer p39; RoboSTEM judge p40; Kolej Komuniti Pekan p41; school certificates p42-44; Hospital Sultan Ismail letter p45
+- RS SSM 2019 record p46-47, 2024 record p48-49; INCUS SSM p50-53; INCUS bank-account resolution p54 (undated)
 
-## 2. Qualifications and registration
-- PhD scroll and transcript: IN PACK
-- MSc scroll and transcripts: IN PACK
-- B.Eng scroll and transcripts: IN PACK
-- Diploma scroll and transcripts: IN PACK
-- SPM certificate: IN PACK (no certified-copy stamp)
-- BEM Graduate Engineer certificate G1276385A: IN PACK (no certified-copy stamp)
-- Certified copies, if UPM requires them: FIX
+## Not included
+- Publication list and citation metrics printout (Scopus/ORCID/Google Scholar, October 2026)
+- Record page showing paper 7's conference (ICOM 2022)
+- RS renewal record for 2021 to 2024
+- INCUS formal dissolution documents (liquidator or striking-off)
+- Certified-copy stamps on SPM and BEM (check UPM rule)
+- Passport-size photo and the portal form items (upload separately on the portal)
 
-## 3. Research evidence
-- Scopus, ORCID, Google Scholar printout with metrics (October 2026): ADD
-- JCR quartile proof for the 3 Q1 and 2 Q3 journals: ADD
-- First pages of papers 1, 2, 3 and 7 (ICOM 2022): ADD
-- Patent MY196249A, grant record showing inventors: ADD
-- UMP graduate research assistant letter (RDU190325): IN PACK
-
-## 4. Teaching and engagement
-- UMPSA CDU240128 appointment letter: IN PACK, FIX (sliver of address text above the redaction box on page 29)
-- SMOA workshop certificate: IN PACK
-- Penggerak Robotik Pahang certificate: IN PACK
-- RBTX Challenge 2023 trainer certificate: IN PACK
-- Pekan RoboSTEM Challenge 2024 judge certificate: IN PACK
-- Kolej Komuniti Pekan instructor certificate: IN PACK, FIX (prints sideways, rotate)
-- School certificates of appreciation (RS competitions): ADD
-- Hospital Sultan Ismail letter of appreciation: IN PACK
-- Hackathon 2019 certificate: attendance only, optional, leave out
-
-## 5. Business interests (disclosed)
-- INCUS SSM: pages 1, 3 and 5 of 7 only, redacted: ADD (file received, unredacted)
-- RS Technologies Empire SSM: 2019 record, any 2021 to 2024 renewal, 2024 record; business and owner pages only; redacted: ADD
-- Summary table of SSM records: DONE (see the enclosure list document, section B)
-- INCUS dissolution evidence: ADD when available
-- UPM outside-business declaration form, if one exists: ADD
-
-## 6. Referees
-- All three agreed to be named (confirmed). Give their details on the form.
-
-## 7. Final fixes before upload
-- True redaction tool for bank details, IC numbers, dates of birth and addresses. Test the final PDF by searching for a few IC digits and a street name.
-- Add the one-page enclosure list (done, see 12_enclosure_list.md) and fill the start pages after the final merge.
-- Check the portal's file-size limit (the old pack was about 8 MB).
-- Bring originals to any interview.
+## Fix before upload
+- Redact the partner's home address on the RS 2019 record first page (p46); it is visible there but blacked out on the owner page (p47).
+- Re-export the cover letter so pages 1-2 show: patent "granted in March 2023" and "mentored school robotics teams".
+- File size is about 11.5 MB; check the portal limit.
+- Bookmarks are now named by item (All_in_one_updated.pdf).
 
 =================== 12_enclosure_list.md ===================
 
-# Enclosure list and SSM summary (content of the Claude Doc "Supporting Documents - Enclosure List and Company Records Summary")
+# Enclosure list and SSM summary (content of Enclosure_List_Mok_Ren_Hao.pdf and the Claude Doc "Supporting Documents - Enclosure List and Company Records Summary")
 
-A. List of enclosures (26 items, grouped: application documents; qualifications; research evidence; teaching and engagement; business interests). Items still to add: 10, 11, 12, 13, 21, 25, 26. Fill start pages after the final merge.
+FINAL merged application PDF: 54 pages (All_in_one_updated.pdf). Letter p1-2, CV p3-4, this list p5-6, supporting documents p7-54. 26 items.
+- 1 cover letter p1-2; 2 CV p3-4; 3 enclosure list p5-6; 4 identity card copy p7
+- 5 PhD p8-9; 6 MSc p10-12; 7 B.Eng p13-18; 8 Diploma p19-22; 9 SPM p23; 10 BEM p24
+- 11 JCR p25-28; 12 first pages of papers 1, 2, 3, 7 p29-32; 13 patent record p33; 14 GRA letter p34
+- 15 UMPSA CDU240128 p35-36; 16 SMOA p37; 17 Penggerak Robotik Pahang p38; 18 RBTX trainer p39; 19 RoboSTEM judge p40; 20 Kolej Komuniti Pekan p41; 21 school certificates p42-44; 22 Hospital Sultan Ismail letter p45
+- 23 company records summary p6; 24 RS SSM p46-49 (2019 record p46-47, 2024 record p48-49); 25 INCUS SSM p50-53; 26 INCUS bank-account resolution p54 (undated)
 
-B. Company records summary
-- RS Technologies Empire (registered partnership, Pekan): 2019 to 2021, CA0289140-H, start 27-05-2019, expiry 26-05-2021, active when printed 27-05-2019. 2021 to 2024: renewal record to add if available. 2024 to 2029, 202403174749 (TR0305108-K), start 01-07-2024, expiry 08-07-2029, active when printed 22-10-2026. Role: co-founder and design engineer (partner), from 2019.
-- INCUS Solutions Sdn. Bhd.: 201901008538 (1317866-P), incorporated 12-03-2019, status Existing on SSM (22-10-2026), ceased operations 2025 with dissolution in progress, Director appointed 12-03-2019 (R&D role), 15 of 100 ordinary shares (15%).
+NOT included in the final pack (my decision): publication list and citation metrics printout; record page showing paper 7's conference; RS renewal record 2021 to 2024; INCUS formal dissolution documents; certified-copy stamps on SPM and BEM (check UPM rule).
+
+Company records summary
+- RS Technologies Empire (registered partnership, Pekan): 2019 to 2021, CA0289140-H, start 27-05-2019, expiry 26-05-2021 (PDF p46-47). 2021 to 2024: no record included. 2024 to 2029, 202403174749 (TR0305108-K), start 01-07-2024, expiry 08-07-2029 (PDF p48-49). Role: co-founder and design engineer (partner), from 2019.
+- INCUS Solutions Sdn. Bhd.: 201901008538 (1317866-P), incorporated 12-03-2019, status Existing on SSM (22-10-2026), ceased operations 2025 with dissolution in progress, Director appointed 12-03-2019 (R&D role), 15 of 100 ordinary shares (15%) (PDF p50-53; resolution p54).
